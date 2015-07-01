@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/etc/systemd/system/sysinit.target.wants'
+let g:netrw_dirhist_2='/home/kapil/Programming'
+let g:netrw_dirhist_3='/home/kapil'
+let g:netrw_dirhist_4='/home/kapil/.gnome2_private'
+let g:netrw_dirhist_5='/home/kapil'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_7='/home/kapil'
+let g:netrw_dirhist_8='/home/kapil/Programming'
+let g:netrw_dirhist_9='/home/kapil/.vim/colors'
