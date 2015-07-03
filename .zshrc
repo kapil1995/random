@@ -97,3 +97,5 @@ export PATH
 
 PATH=/usr/apache/apache-nutch-1.10/bin:$PATH
 export PATH
+#Uncomment this to get blinking vertical line in xterm
+#echo -e -n "\x1b[\x35 q"
