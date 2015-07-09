@@ -1,0 +1,81 @@
+! Xcursor---------------------------------------------------------------------
+r.theme                                                                         : Vanilla-DMZ-AA
+Xcursor.size                                                                    : 12
+
+! Xft settings ---------------------------------------------------------------
+
+Xft.dpi                                                                         : 90
+Xft.antialias                                                                   : true
+Xft.rgba                                                                        : rgb
+Xft.hinting                                                                     : true
+Xft.hintstyle                                                                   : hintslight
+
+! xterm settings --------------------------------------------------------------
+!UXTerm*faceName                                                                : Ubuntu Mono for Powerline
+!UXTerm*faceName                                                                 : Source Code Pro for Powerline
+
+Xterm*facename                                                                  : Source Code Pro for Powerline
+UXTerm*faceName                                                                : Inconsolata for Powerline
+!UXTerm*faceName                                                                : DejaVu Sans Mono for Powerline
+UXTerm*faceSize                                                                 : 12
+
+Xterm*facesize                                                                  : 12
+
+UXTerm*eightBitInput                                                            : false
+UXTerm*metaSendsEscape                                                          : false
+UXTerm*selectToClipboard							: true
+
+XTerm*eightBitInput                                                             : false
+XTerm*metaSendsEscape                                                           : false
+XTerm*selectToClipboard								: true
+
+
+UXTerm*fontMenu*fontdefault*Label                                               : Default
+UXTerm*loginshell                                                               : 1
+UXTerm*locale                                                                   : 1
+UXTerm*utf8                                                                     : 1
+UXTerm*utf8Title                                                                : 1
+UXTerm*ucs									: 1
+UXTerm*ucsTitle									: 1
+
+UXTerm*bellIsUrgent                                                             : 1
+UXTerm*borderWidth                                                              : 0
+UXTerm*scrollBar                                                                : 0
+
+UXTerm*xftAntialias                                                             : 1
+UXTerm*cjkWidth                                                                 : 0
+
+
+XTerm*fontMenu*fontdefault*Label                                                : Default
+XTerm*loginshell                                                                : 1
+XTerm*locale                                                                    : 1
+XTerm*utf8                                                                      : 1
+XTerm*utf8Title                                                                 : 1
+
+XTerm*bellIsUrgent                                                              : 1
+XTerm*borderWidth                                                               : 0
+XTerm*scrollBar                                                                 : 0
+
+XTerm*xftAntialias                                                              : 1
+XTerm*cjkWidth                                                                  : 0
+
+*.foreground                                                                    : #EEEEEEEEECEC
+*.background                                                                    : #000000000000
+*.cursorColor                                                                   : #EEEEEEEEECEC
+*.color0                                                                        : #000000000000
+*.color1                                                                        : #AAAA00000000
+*.color2                                                                        : #0000AAAA0000
+*.color3                                                                        : #AAAA55550000
+*.color4                                                                        : #00000000AAAA
+*.color5                                                                        : #AAAA0000AAAA
+*.color6                                                                        : #0000AAAAAAAA
+*.color7                                                                        : #AAAAAAAAAAAA
+*.color8                                                                        : #555555555555
+*.color9                                                                        : #FFFF55555555
+*.color10                                                                       : #5555FFFF5555
+*.color11                                                                       : #FFFFFFFF5555
+*.color12                                                                       : #55555555FFFF
+*.color13                                                                       : #FFFF5555FFFF
+*.color14                                                                       : #5555FFFFFFFF
+*.color15                                                                       : #FFFFFFFFFFFF
+ 
